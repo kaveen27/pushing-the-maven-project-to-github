@@ -24,6 +24,18 @@
 		<artifactId>spring-context</artifactId>
 		<version>6.0.6</version>
 	</dependency>
+	
+	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>kaveen_relase</artifactId>
+		<version>6.0.6</version>
+	</dependency>
+	
+	<dependency>
+		<groupId>org.springframework</groupId>
+		<artifactId>cherry_release</artifactId>
+		<version>6.0.6</version>
+	</dependency>
 
   </dependencies>
 </project>
